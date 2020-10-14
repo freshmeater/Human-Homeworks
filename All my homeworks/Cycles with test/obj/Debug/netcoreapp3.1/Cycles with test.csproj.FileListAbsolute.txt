@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Homeworks\Cycles with test\Cycles with test\bin\Debug\netcoreapp3.1\Cycles with test.exe
+C:\Users\User\Desktop\C# Homeworks\Cycles with test\Cycles with test\bin\Debug\netcoreapp3.1\Cycles with test.deps.json
+C:\Users\User\Desktop\C# Homeworks\Cycles with test\Cycles with test\bin\Debug\netcoreapp3.1\Cycles with test.runtimeconfig.json
+C:\Users\User\Desktop\C# Homeworks\Cycles with test\Cycles with test\bin\Debug\netcoreapp3.1\Cycles with test.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Homeworks\Cycles with test\Cycles with test\bin\Debug\netcoreapp3.1\Cycles with test.dll
+C:\Users\User\Desktop\C# Homeworks\Cycles with test\Cycles with test\bin\Debug\netcoreapp3.1\Cycles with test.pdb
+C:\Users\User\Desktop\C# Homeworks\Cycles with test\Cycles with test\obj\Debug\netcoreapp3.1\Cycles with test.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Homeworks\Cycles with test\Cycles with test\obj\Debug\netcoreapp3.1\Cycles with test.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Homeworks\Cycles with test\Cycles with test\obj\Debug\netcoreapp3.1\Cycles with test.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Homeworks\Cycles with test\Cycles with test\obj\Debug\netcoreapp3.1\Cycles with test.dll
+C:\Users\User\Desktop\C# Homeworks\Cycles with test\Cycles with test\obj\Debug\netcoreapp3.1\Cycles with test.pdb
