@@ -8,13 +8,17 @@ namespace Input
         {
             
         }
-        public static int IntInput()
+        public static int IntInput(int type = 0)
         {
-            if (int.TryParse(Console.ReadLine(), out int a))
+            if (!int.TryParse(Console.ReadLine(), out int a))
             {
-                return a;
+                throw new Exception("You`re trying to input wrong digit");
             }
-            return 0;
+            return type switch
+            {
+                1 => a > 0 ? a : 1,
+                _ => a,
+            };
         }
         public static double DoubleInput()
         {
@@ -47,11 +51,9 @@ namespace Input
             Random rnd = new Random();
             int[] a = new int[rnd.Next(20)+1];
             int i = 0;
-            bool b = true;
-            for (i = 0; i < a.Length & b; i++) 
+            for (i = 0; i < a.Length; i++) 
             {
-                a[i] = rnd.Next(21);
-                if (a[i] == 0) b = false;
+                a[i] = rnd.Next(20)+1;
             }
             a[a.Length - 1] = 0;
             return a;

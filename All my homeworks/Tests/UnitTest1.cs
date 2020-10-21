@@ -33,7 +33,7 @@ namespace Tests
         {
             int[] a=new int[10];
             Random r = new Random();
-            for(int i = 0; i < 100; i++)
+            for (int i = 0; i < 100; i++)
             {
                 for (int j = 0; j < 10; j++) a[j] = r.Next(11);
                 Assert.AreEqual(Series.Program.Series10(10, a), true);
@@ -42,6 +42,11 @@ namespace Tests
                 for (int j = 0; j < 10; j++) a[j] = r.Next(11)-10;
                 Assert.AreEqual(Series.Program.Series10(10, a), false);
             }
+        }
+        [TestMethod]
+        public void DoesItWorkWithNullReference()
+        {
+            Series.Program.Series10(10, null);
         }
     }
 }
