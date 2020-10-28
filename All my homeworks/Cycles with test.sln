@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "While", "While\While.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{ECBAD0A3-5ABF-4A29-BC49-11CB68FFA6CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Series", "Series\Series.csproj", "{5194813F-A24D-4644-BB29-88282AC8921F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Series", "Series\Series.csproj", "{5194813F-A24D-4644-BB29-88282AC8921F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Input", "Input\Input.csproj", "{67083BC5-C261-4D05-90BB-A096FE3E15A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Input", "Input\Input.csproj", "{67083BC5-C261-4D05-90BB-A096FE3E15A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func", "Func\Func.csproj", "{2694BB0E-FE45-46E1-A126-B447D1526E2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{67083BC5-C261-4D05-90BB-A096FE3E15A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67083BC5-C261-4D05-90BB-A096FE3E15A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67083BC5-C261-4D05-90BB-A096FE3E15A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2694BB0E-FE45-46E1-A126-B447D1526E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2694BB0E-FE45-46E1-A126-B447D1526E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2694BB0E-FE45-46E1-A126-B447D1526E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2694BB0E-FE45-46E1-A126-B447D1526E2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

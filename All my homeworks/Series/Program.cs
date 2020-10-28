@@ -11,7 +11,7 @@ namespace Series
         }
         static void Series8()
         {
-            int n = IntInput(1);
+            int n = GetPositiveInt();
             int k = 0;
             int[] a = IntInit(n);
             for(int i = 0; i < n; i++)
@@ -67,7 +67,7 @@ namespace Series
         }
         static void Series18()
         {
-            int n = IntInput(1);
+            int n = GetPositiveInt();
             int[] a = IntInit(n);
             Console.WriteLine(a[0]);
             for (int i = 1; i < n; i++)
@@ -77,7 +77,7 @@ namespace Series
         }
         static void Series20()
         {
-            int n = IntInput(1);
+            int n = GetPositiveInt();
             int[] a = IntInit(n);
             for (int i = 0; i < n - 1; i++)
             {
@@ -86,7 +86,7 @@ namespace Series
         }
         static double Series22()
         {
-            int n = IntInput(1);
+            int n = GetPositiveInt();
             double[] a = DoubleInit(n);
             int ld = 0;
             int i;
@@ -104,7 +104,7 @@ namespace Series
         }
         static int Series23()
         {
-            int n = IntInput(1);
+            int n = GetPositiveInt();
             int[] a = IntInit(n);
             int ld = 0;
             for (int i = 1; i < n - 1; i++)
@@ -123,7 +123,7 @@ namespace Series
         }
         static void Series26()
         {
-            int n = IntInput(1), k = IntInput();
+            int n = GetPositiveInt(), k = IntInput();
             double[] a = DoubleInit(n);
             double st;
             foreach(double x in a)
@@ -138,7 +138,7 @@ namespace Series
         }
         static void Series28()
         {
-            int n = IntInput(1);
+            int n = GetPositiveInt();
             double[] a = DoubleInit(n);
             double st = 1;
             for(int i = 0; i < n; i++)

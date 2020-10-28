@@ -200,3 +200,6 @@ C:\Users\User\Desktop\C# Homeworks\All my homeworks\Tests\obj\Debug\netcoreapp3.
 C:\Users\User\Desktop\C# Homeworks\All my homeworks\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CopyComplete
 C:\Users\User\Desktop\C# Homeworks\All my homeworks\Tests\obj\Debug\netcoreapp3.1\Tests.dll
 C:\Users\User\Desktop\C# Homeworks\All my homeworks\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+C:\Users\User\Desktop\C# Homeworks\All my homeworks\Tests\bin\Debug\netcoreapp3.1\Func.exe
+C:\Users\User\Desktop\C# Homeworks\All my homeworks\Tests\bin\Debug\netcoreapp3.1\Func.dll
+C:\Users\User\Desktop\C# Homeworks\All my homeworks\Tests\bin\Debug\netcoreapp3.1\Func.pdb

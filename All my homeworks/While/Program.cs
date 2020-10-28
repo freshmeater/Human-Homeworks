@@ -21,7 +21,7 @@ namespace While
         }
         static void While5()
         {
-            int n = IntInput();
+            int n = GetPositiveInt();
             int i;
             for (i = 0; n != 1; i++) 
             {
@@ -31,7 +31,7 @@ namespace While
         }
         static void While9()
         {
-            int n = IntInput();
+            int n = GetPositiveInt();
             int a = 3;
             int c = 1;
             while (a <= n)
@@ -78,7 +78,7 @@ namespace While
         }
         static void While25()
         {
-            int n = IntInput();
+            int n = GetPositiveInt();
             int f1=1, f2=1, f3=1;
             while (n>=f3)
             {
@@ -90,7 +90,7 @@ namespace While
         }
         static void While29()
         {
-            int n = IntInput();
+            int n = GetPositiveInt();
             double f1 = 1, f2 = 1, f3 = 2;
             while (n <= Math.Abs(f3-f2))
             {

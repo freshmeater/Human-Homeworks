@@ -8,20 +8,19 @@ namespace For
     {
         static void Main(string[] args)
         {
-            For13(IntInput());
+            For13(GetPositiveInt());
         }
-
 
         static void For1()
         {
-            int k = IntInput();
-            int n = IntInput();
+            int k = GetPositiveInt();
+            int n = GetPositiveInt();
             for (int i = 0; i < n; i++) 
                 Console.WriteLine(k);
         }
         static void For5()
         {
-            double cost = DoubleInput();
+            double cost = GetPositiveDouble();
             for (int i = 1; i <= 10; i++)
                 Console.WriteLine(cost * i*0.1);
         }

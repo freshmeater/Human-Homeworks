@@ -9,6 +9,7 @@
       "Tests/1.0.0": {
         "dependencies": {
           "For": "1.0.0",
+          "Func": "1.0.0",
           "Input": "1.0.0",
           "MSTest.TestAdapter": "2.0.0",
           "MSTest.TestFramework": "2.0.0",
@@ -1336,6 +1337,14 @@
           "For.dll": {}
         }
       },
+      "Func/1.0.0": {
+        "dependencies": {
+          "Input": "1.0.0"
+        },
+        "runtime": {
+          "Func.dll": {}
+        }
+      },
       "Input/1.0.0": {
         "runtime": {
           "Input.dll": {}
@@ -2101,6 +2110,11 @@
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
     "For/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Func/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

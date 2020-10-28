@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Cycles with test\For.csproj" />
+    <ProjectReference Include="..\Func\Func.csproj" />
     <ProjectReference Include="..\Input\Input.csproj" />
     <ProjectReference Include="..\Series\Series.csproj" />
     <ProjectReference Include="..\While\While.csproj" />
