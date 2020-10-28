@@ -11,15 +11,15 @@ namespace Func
         }
         public static void DigitCountSum(int k, out int c, out int s)
         {
-            c = DigitsOperation(k,a => 1);
-            s = DigitsOperation(k,a => a % 10);
+            c = DigitsOperation(k, (a, c) => c += 1);
+            s = DigitsOperation(k, (a, c) => c += a % 10);
         }
-        static int DigitsOperation(int k, Func<int,int> op)
+        static int DigitsOperation(int k, Func<int, int, int> op)
         {
             int c = 0;
             while (k != 0)
             {
-                c+=op(k);
+                c = op(k, c);
                 k /= 10;
             }
             return c;
