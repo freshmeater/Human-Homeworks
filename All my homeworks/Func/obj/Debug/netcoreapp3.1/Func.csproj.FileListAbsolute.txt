@@ -13,3 +13,18 @@ C:\Users\User\Desktop\C# Homeworks\All my homeworks\Func\obj\Debug\netcoreapp3.1
 C:\Users\User\Desktop\C# Homeworks\All my homeworks\Func\obj\Debug\netcoreapp3.1\Func.csproj.CopyComplete
 C:\Users\User\Desktop\C# Homeworks\All my homeworks\Func\obj\Debug\netcoreapp3.1\Func.dll
 C:\Users\User\Desktop\C# Homeworks\All my homeworks\Func\obj\Debug\netcoreapp3.1\Func.pdb
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\bin\Debug\netcoreapp3.1\Input.exe
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\bin\Debug\netcoreapp3.1\Func.exe
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\bin\Debug\netcoreapp3.1\Func.deps.json
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\bin\Debug\netcoreapp3.1\Func.runtimeconfig.json
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\bin\Debug\netcoreapp3.1\Func.runtimeconfig.dev.json
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\bin\Debug\netcoreapp3.1\Func.dll
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\bin\Debug\netcoreapp3.1\Func.pdb
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\bin\Debug\netcoreapp3.1\Input.dll
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\bin\Debug\netcoreapp3.1\Input.pdb
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\obj\Debug\netcoreapp3.1\Func.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\obj\Debug\netcoreapp3.1\Func.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\obj\Debug\netcoreapp3.1\Func.AssemblyInfo.cs
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\obj\Debug\netcoreapp3.1\Func.csproj.CopyComplete
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\obj\Debug\netcoreapp3.1\Func.dll
+C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Func\obj\Debug\netcoreapp3.1\Func.pdb

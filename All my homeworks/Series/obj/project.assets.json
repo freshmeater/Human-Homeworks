@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Series\\Series.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Series\\Series.csproj",
       "projectName": "Series",
-      "projectPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Series\\Series.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Series\\Series.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Series\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Series\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Input\\Input.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Input\\Input.csproj"
+            "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj"
             }
           }
         }

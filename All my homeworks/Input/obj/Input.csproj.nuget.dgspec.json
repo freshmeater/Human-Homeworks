@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Input\\Input.csproj": {}
+    "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Input\\Input.csproj": {
+    "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Input\\Input.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj",
         "projectName": "Input",
-        "projectPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Input\\Input.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Input\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

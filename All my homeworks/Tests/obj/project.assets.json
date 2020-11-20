@@ -6972,11 +6972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Tests\\Tests.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Tests\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6992,20 +6992,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Cycles with test\\For.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Cycles with test\\For.csproj"
+            "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Cycles with test\\For.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Cycles with test\\For.csproj"
             },
-            "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Func\\Func.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Func\\Func.csproj"
+            "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Func\\Func.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Func\\Func.csproj"
             },
-            "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Input\\Input.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Input\\Input.csproj"
+            "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj"
             },
-            "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Series\\Series.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\Series\\Series.csproj"
+            "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Series\\Series.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Series\\Series.csproj"
             },
-            "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\While\\While.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\C# Homeworks\\All my homeworks\\While\\While.csproj"
+            "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\While\\While.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\While\\While.csproj"
             }
           }
         }
