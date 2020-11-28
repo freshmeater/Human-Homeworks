@@ -5,11 +5,24 @@
       "Input/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Vector": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Input.dll": {}
         },
         "runtime": {
           "bin/placeholder/Input.dll": {}
+        }
+      },
+      "Vector/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Vector.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vector.dll": {}
         }
       }
     }
@@ -19,6 +32,11 @@
       "type": "project",
       "path": "../Input/Input.csproj",
       "msbuildProject": "../Input/Input.csproj"
+    },
+    "Vector/1.0.0": {
+      "type": "project",
+      "path": "../Vector/Vector.csproj",
+      "msbuildProject": "../Vector/Vector.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -32,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Cycles with test\\For.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\HumanHomeworks\\All my homeworks\\Cycles with test\\For.csproj",
       "projectName": "For",
-      "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Cycles with test\\For.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\HumanHomeworks\\All my homeworks\\Cycles with test\\For.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Cycles with test\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\HumanHomeworks\\All my homeworks\\Cycles with test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +70,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj"
+            "C:\\Users\\User\\Desktop\\HumanHomeworks\\All my homeworks\\Input\\Input.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\HumanHomeworks\\All my homeworks\\Input\\Input.csproj"
             }
           }
         }

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Input/1.0.0": {
+        "dependencies": {
+          "Vector": "1.0.0"
+        },
         "runtime": {
           "Input.dll": {}
+        }
+      },
+      "Vector/1.0.0": {
+        "runtime": {
+          "Vector.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vector/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

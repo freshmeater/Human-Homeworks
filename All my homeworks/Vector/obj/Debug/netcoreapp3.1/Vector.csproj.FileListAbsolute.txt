@@ -9,3 +9,14 @@ C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Vector\ob
 C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Vector\obj\Debug\netcoreapp3.1\Vector.dll
 C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Vector\obj\Debug\netcoreapp3.1\Vector.pdb
 C:\Users\User\Desktop\Human-Homeworks\Human-Homeworks\All my homeworks\Vector\obj\Debug\netcoreapp3.1\Vector.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Vector\obj\Debug\netcoreapp3.1\Vector.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Vector\obj\Debug\netcoreapp3.1\Vector.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Vector\obj\Debug\netcoreapp3.1\Vector.AssemblyInfo.cs
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Vector\obj\Debug\netcoreapp3.1\Vector.dll
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Vector\obj\Debug\netcoreapp3.1\Vector.pdb
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Vector\bin\Debug\netcoreapp3.1\Vector.exe
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Vector\bin\Debug\netcoreapp3.1\Vector.deps.json
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Vector\bin\Debug\netcoreapp3.1\Vector.runtimeconfig.json
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Vector\bin\Debug\netcoreapp3.1\Vector.runtimeconfig.dev.json
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Vector\bin\Debug\netcoreapp3.1\Vector.dll
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Vector\bin\Debug\netcoreapp3.1\Vector.pdb

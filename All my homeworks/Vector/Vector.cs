@@ -1,13 +1,17 @@
 ﻿using System;
 
-namespace Vector
+namespace VectorStructure
 {
-    struct Vector
+    public struct Vector
     {
-        double x;
-        double y;
-        double z;
-        double length;
+        static void Main(string[] args)
+        {
+
+        }
+        public double x;
+        public double y;
+        public double z;
+        public double length;
         public Vector(double x, double y, double z)
         {
             this.x = x;
@@ -18,16 +22,17 @@ namespace Vector
 
         public override string ToString() => "(" + x + "," + y + "," + z + ")";
 
-        static double Length(double x, double y, double z) => Math.Sqrt(x * x + y * y + z * z);
+        public static double Length(double x, double y, double z) => Math.Sqrt(x * x + y * y + z * z);
         
-        void Normalize()
+        public void Normalize()
         {
             x /= length;
             y /= length ;
             z /= length;
+            length = Length(x, y, z);
         }
 
-        Vector GetNormalized() => new Vector(x / length, y / length, z / length);
+        public Vector GetNormalized() => new Vector(x / length, y / length, z / length);
 
         public static Vector operator +(Vector a, Vector b) => new Vector(a.x + b.x, a.y + b.y, a.z + b.z);
         

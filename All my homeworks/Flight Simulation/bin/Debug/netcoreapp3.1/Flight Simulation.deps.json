@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Flight Simulation/1.0.0": {
+        "dependencies": {
+          "Input": "1.0.0",
+          "Vector": "1.0.0"
+        },
+        "runtime": {
+          "Flight Simulation.dll": {}
+        }
+      },
+      "Input/1.0.0": {
+        "dependencies": {
+          "Vector": "1.0.0"
+        },
+        "runtime": {
+          "Input.dll": {}
+        }
+      },
+      "Vector/1.0.0": {
+        "runtime": {
+          "Vector.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flight Simulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

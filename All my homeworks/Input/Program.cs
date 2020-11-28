@@ -1,4 +1,5 @@
 ﻿using System;
+using VectorStructure;
 
 namespace Input
 {
@@ -8,7 +9,6 @@ namespace Input
         {
 
         }
-
         public static int ModifyIntByRule(this int a, Func<int, int> modifyRule)
             => modifyRule(a);
 
@@ -31,6 +31,8 @@ namespace Input
 
         public static double DoubleInput() =>
             double.TryParse(Console.ReadLine(), out double a) ? a : throw new Exception("You`re trying to input wrong digit");
+        public static float FloatInput() =>
+            float.TryParse(Console.ReadLine(), out float a) ? a : throw new Exception("You`re trying to input wrong digit");
 
         public static int[] IntInit(int n)
         {
@@ -62,5 +64,6 @@ namespace Input
             a[a.Length - 1] = 0;
             return a;
         }
+        public static Vector VectorInput() => new Vector(FloatInput(), FloatInput(), FloatInput());
     }
 }

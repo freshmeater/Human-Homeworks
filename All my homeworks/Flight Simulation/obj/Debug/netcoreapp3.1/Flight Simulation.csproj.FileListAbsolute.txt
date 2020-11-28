@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\obj\Debug\netcoreapp3.1\Flight Simulation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\obj\Debug\netcoreapp3.1\Flight Simulation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\obj\Debug\netcoreapp3.1\Flight Simulation.AssemblyInfo.cs
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Vector.exe
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Input.exe
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Flight Simulation.exe
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Flight Simulation.deps.json
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Flight Simulation.runtimeconfig.json
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Flight Simulation.runtimeconfig.dev.json
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Flight Simulation.dll
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Flight Simulation.pdb
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Input.dll
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Vector.dll
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Input.pdb
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\bin\Debug\netcoreapp3.1\Vector.pdb
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\obj\Debug\netcoreapp3.1\Flight Simulation.csproj.CopyComplete
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\obj\Debug\netcoreapp3.1\Flight Simulation.dll
+C:\Users\User\Desktop\HumanHomeworks\All my homeworks\Flight Simulation\obj\Debug\netcoreapp3.1\Flight Simulation.pdb

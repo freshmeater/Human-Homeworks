@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Vector/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Vector.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vector.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Vector/1.0.0": {
+      "type": "project",
+      "path": "../Vector/Vector.csproj",
+      "msbuildProject": "../Vector/Vector.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Vector >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\User\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\HumanHomeworks\\All my homeworks\\Input\\Input.csproj",
       "projectName": "Input",
-      "projectPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\Input.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\HumanHomeworks\\All my homeworks\\Input\\Input.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Human-Homeworks\\Human-Homeworks\\All my homeworks\\Input\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\HumanHomeworks\\All my homeworks\\Input\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\User\\Desktop\\HumanHomeworks\\All my homeworks\\Vector\\Vector.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\HumanHomeworks\\All my homeworks\\Vector\\Vector.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
