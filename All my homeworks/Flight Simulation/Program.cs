@@ -10,7 +10,7 @@ namespace FlightSimulation
     {
         const double deltaTime = 1d / 60d;
         static double time = 0d;
-        static double resistance = 1.0;
+        static double resistance = 0.95;
         static Vector g = new Vector(0, -9.81, 0);
         static double maxY = 0;
         static void Main(string[] args)
@@ -20,12 +20,12 @@ namespace FlightSimulation
             {
                 maxY = ball.coords.y >= maxY ? ball.coords.y : maxY;
                 time += deltaTime;
-                ball.speed += g;
-                ball.coords += ball.speed * deltaTime*resistance;
+                ball.speed = (ball.speed+g)*resistance;
+                ball.coords += ball.speed*deltaTime;
                 Console.WriteLine(ball.coords);
             } while (ball.coords.y>0);
             Console.WriteLine($"Час: {time}");
-            Console.WriteLine($"Дистанція: {ball.Distance()}");
+            Console.WriteLine($"Дистанция: {ball.Distance()}");
             Console.WriteLine($"Максимальна висота: {maxY}");
         }
     }
